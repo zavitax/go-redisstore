@@ -1,4 +1,4 @@
-module github.com/sethvargo/go-redisstore
+module github.com/zavitax/go-redisstore
 
 go 1.14
 

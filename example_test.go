@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/sethvargo/go-redisstore"
+	"github.com/zavitax/go-redisstore"
 )
 
 func ExampleNew() {
